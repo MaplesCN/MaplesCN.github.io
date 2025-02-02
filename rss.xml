@@ -28,7 +28,7 @@
       
         
         
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Hello</summary>
+    <summary type="html">&lt;p&gt;Hello</summary>
         
       
     
@@ -53,7 +53,7 @@
       
         
         
-    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h1 id=&quot;hexo-theme-Typography&quot;&gt;&lt;a href=&quot;#hexo-theme-Typography&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;hexo-theme-Typography&quot;&gt;&lt;a href=&quot;#hexo-theme-Typography&quot; class=&quot;headerlink&quot;</summary>
         
       
     
